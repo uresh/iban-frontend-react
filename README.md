@@ -90,3 +90,6 @@ Usage
 - Admin users should log in using the following credentials:
   - Username: admin@example.com
   - Password: admin@123
+  
+## License
+This project is licensed under the MIT License.
