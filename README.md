@@ -12,10 +12,8 @@ Welcome to the IBAN Validation Web Application built with React.js. This web app
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Author](#author)
-- [Contact](#contact)
+- [Design Document](https://github.com/uresh/iban-frontend-react/blob/c793dc626928ffd6b0eb3f9876b892915d911016/IBAN%20Validation%20System%20Design%20Document.pdf)
 
 ## Getting Started
 
