@@ -75,7 +75,7 @@ Before you begin, make sure you have the following software installed:
 
 The React app will be available at http://localhost:3000.
 
-Usage
+## Usage
 
 - Register or log in to access the IBAN validation feature.
 - Enter an IBAN number to validate.
