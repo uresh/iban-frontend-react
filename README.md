@@ -71,7 +71,7 @@ Before you begin, make sure you have the following software installed:
 7. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
 
    ```
 
