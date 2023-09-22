@@ -53,7 +53,7 @@ Before you begin, make sure you have the following software installed:
 4. Open the .env file and set the VITE_API_BASE_URL variable to the URL of your IBAN backend API. For example:
 
    ```bash
-   VITE_API_BASE_URL=http://localhost/iban-backend-laravel/public
+   VITE_API_BASE_URL=http://127.0.0.1:8000
 
    ```
 
